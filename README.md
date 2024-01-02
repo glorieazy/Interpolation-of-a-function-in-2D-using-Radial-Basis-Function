@@ -1,0 +1,1 @@
+# Interpolation-of-a-function-in-2D-using-Radial-Basis-Function
